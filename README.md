@@ -1,4 +1,4 @@
-Customer Churn Prediction
+# Customer Churn Prediction
 
 
 Overview
@@ -85,3 +85,4 @@ Train/test split, fit models, evaluate with AUC/Precision/Recall
 
 Business Impact Analysis
 Identify high-risk customers, estimate revenue protected, calculate net revenue impact
+
